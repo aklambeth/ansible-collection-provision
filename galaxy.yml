@@ -3,10 +3,10 @@ name: "install"
 version: "1.0.0"
 readme: "README.md"
 authors:
-    - "Adrian Lambeth (adrian@lambeth.org)"
+    - "Adrian Lambeth"
 dependencies:
 license:
     - "MIT"
 tags:
     - install
-repository: "https://www.github.com/aklambeth"
+repository: "https://www.github.com/aklambeth/ansible-collection-provision"
