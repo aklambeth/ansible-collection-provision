@@ -1,0 +1,12 @@
+namespace: "aklambeth.provision"
+name: "install"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "Adrian Lambeth (adrian@lambeth.org)"
+dependencies:
+license:
+    - "MIT"
+tags:
+    - install
+repository: "https://www.github.com/aklambeth"
